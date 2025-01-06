@@ -14,6 +14,6 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjRjYTY
 - **Tech Stacks:** SQL, Power BI Desktop, Excel, DAX, DAX Studio
 - **Power BI Techniques:** Calculated Columns, Measures using DAX, Data Modeling, Dynamic Titles, KPI Indicators, Power BI Services, Report Publishing, and more.
 - **Business Terms:** Gross/Net Price, Margin, Sales, Forecasting, etc.
-- **Other Skills:** Resume & Interview Tips, Problem-solving mindset.
+- **Other Skills:** Resume & Interview Tips, Problem-solving mindset, Stakeholder Communication.
 ## Acknowledgments
 Special thanks to mentors, Dhaval Patel and Hemanand Vadivel. This project was part of the Power BI course offered by CodeBasis.

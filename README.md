@@ -8,8 +8,9 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 - **Marketing View:** Analytics to enhance marketing strategy.
 - **Supply Chain View:** Optimization metrics for efficient supply chain management.
 - **Executive View:** Metrics critical for top-level decision-makers.
-## Live Dashboard
-Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjRjYTY3MTYtMDJmZC00ZGZkLWE3MjgtZDVjOTllZmU4YjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+## Project Links
+- **Live Interactive Dashboard:** [View Here](https://app.powerbi.com/view?r=eyJrIjoiNjRjYTY3MTYtMDJmZC00ZGZkLWE3MjgtZDVjOTllZmU4YjUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **Project Video Presentation:** [Watch Here](https://www.linkedin.com/posts/pratiky-analyst_excited-to-share-the-completion-of-my-activity-7281672047758381056-MaP_?utm_source=share&utm_medium=member_desktop)
 ## Skills Learned:
 - **Tech Stacks:** SQL, Power BI Desktop, Excel, DAX, DAX Studio
 - **Power BI Techniques:** Calculated Columns, Measures using DAX, Data Modeling, Dynamic Titles, KPI Indicators, Power BI Services, Report Publishing, and more.
